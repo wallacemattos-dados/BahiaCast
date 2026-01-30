@@ -15,5 +15,5 @@ else:
     for _, row in filtered.iterrows():
         st.subheader(f"#{row['rank']} — {row['title']}")
         st.text(row['artist'])
-        st.markdown(f"[▶ Ouvir no Spotify]({row['spotify_url']})")
+        st.markdown(f"[▶️ Ouvir no Spotify]({row['spotify_url']})")
         st.divider()
