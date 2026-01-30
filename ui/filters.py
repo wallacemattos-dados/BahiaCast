@@ -5,5 +5,5 @@ def date_filter():
     with col1:
         month = st.selectbox("Mês", range (1, 13))
     with col2:
-        year = se.selectbox("Ano", range (1980, 2005))
+        year = st.selectbox("Ano", range (1980, 2005))
     return month, year
