@@ -7,6 +7,7 @@ st.title("BahiaCast - Rádio")
 
 df = load_data()
 month, year = date_filter()
+
 filtered = filter_data(df, month, year)
 
 if filtered.empty:
