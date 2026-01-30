@@ -3,7 +3,7 @@ from services.data_loader import load_data, filter_data
 from ui.filters import date_filter
 
 st.set_page_config(page_title="BahiaCast", layout="wide")
-st.title("BahiaCast")
+st.title("BahiaCast - Rádio")
 
 df = load_data()
 month, year = date_filter()
