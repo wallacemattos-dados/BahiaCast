@@ -1,9 +1,12 @@
 import streamlit as st
 
 def date_filter():
-    col1, col2 = st.columns(2)
-    with col1:
-        month = st.selectbox("Mês", range (1, 7))
-    with col2:
-        year = st.selectbox("Ano", range (1998, 2000))
+    st.sidebar.header("🎚️ Filtros")
+    month = st.selectbox("Mês", range (1, 7))
+    year = st.selectbox("Ano", range (1998, 2000))
+
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("### Sobre")
+    st.sidebar.info("Este dashboard exibe o Top 10 da Billboard filtrado por data.")
+    
     return month, year
