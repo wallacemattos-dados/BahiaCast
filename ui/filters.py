@@ -1,7 +1,7 @@
 import streamlit as st
 
 def date_filter():
-    st.sidebar.header("Filtros")
+    st.sidebar.header("Viagem no tempo")
     month = st.sidebar.selectbox("Mês", range (1, 7))
     year = st.sidebar.selectbox("Ano", range (1998, 2000))
 
