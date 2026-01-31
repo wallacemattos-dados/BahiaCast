@@ -9,10 +9,6 @@ st.set_page_config(page_title="BahiaCast",
 
 
 st.title("📻 BahiaCast - Top Charts")
-st.markdown("Descubra as músicas que marcaram época.")
-st.divider()
-
-st.title("📻 BahiaCast - Top Charts")
 st.markdown("### As mais tocadas")
 st.divider()
 
