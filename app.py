@@ -7,9 +7,13 @@ st.set_page_config(page_title="BahiaCast",
                    page_icon="🎵",
                     layout="wide")
 
+
 st.title("📻 BahiaCast - Top Charts")
 st.markdown("Descubra as músicas que marcaram época.")
 st.divider()
+=======
+st.title("BahiaCast - Rádio")
+
 
 df = load_data()
 month, year = date_filter()
@@ -30,3 +34,4 @@ else:
 
             with col_player:
                 components.iframe(row['spotify_url'], height=80)
+
