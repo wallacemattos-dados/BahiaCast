@@ -5,7 +5,7 @@
     "artist": "Jennifer Lopez",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/intl-pt/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    "spotify_url": "https://open.spotify.com/embed/track/3x4yV0hW5Ve3TKhFkXSqFn"
   },
   {
     "rank": 2,
@@ -13,7 +13,7 @@
     "artist": "Ricky Martin",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/intl-pt/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    "spotify_url": "https://open.spotify.com/embed/track/0Ph6L4l8dYUuXFmb71Ajnd"
   },
   {
     "rank": 3,
@@ -21,7 +21,7 @@
     "artist": "TLC",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    "spotify_url": "https://open.spotify.com/embed/track/1KGi9sZVMeszgZOWivFpxs"
   },
   {
     "rank": 4,
@@ -29,7 +29,7 @@
     "artist": "Sixpence None the Richer",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    "spotify_url": "https://open.spotify.com/embed/track/754kgU5rWscRTfvlsuEwFp"
   },
   {
     "rank": 5,
@@ -37,7 +37,7 @@
     "artist": "702",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/intl-pt/track/4VSyH8AkIt3kaR5xIPFVVi"
+    "spotify_url": "https://open.spotify.com/embed/track/4VSyH8AkIt3kaR5xIPFVVi"
   },
   {
     "rank": 6,
@@ -45,7 +45,7 @@
     "artist": "Backstreet Boys",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+    "spotify_url": "https://open.spotify.com/embed/track/47BBI51FKFwOMlIiX6m8ya"
   },
   {
     "rank": 7,
@@ -53,7 +53,7 @@
     "artist": "Sugar Ray",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/intl-pt/track/2ouURa1AIXp3AvkS52Jry5"
+    "spotify_url": "https://open.spotify.com/embed/track/2ouURa1AIXp3AvkS52Jry5"
   },
   {
     "rank": 8,
@@ -61,7 +61,7 @@
     "artist": "JT Money ft. Sole",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/intl-pt/track/0kkt9ym5Es2TpqTznJ7xjr"
+    "spotify_url": "https://open.spotify.com/embed/track/0kkt9ym5Es2TpqTznJ7xjr"
   },
   {
     "rank": 9,
@@ -69,7 +69,7 @@
     "artist": "Shania Twain",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/intl-pt/track/4FUfoWMypAyWbOavmYyeNu"
+    "spotify_url": "https://open.spotify.com/embed/track/4FUfoWMypAyWbOavmYyeNu"
   },
   {
     "rank": 10,
@@ -77,6 +77,6 @@
     "artist": "Musiq Soulchild",
     "month": 6,
     "year": 1999,
-    "spotify_url": "https://open.spotify.com/intl-pt/track/2s0DmFkinx9TZMFxAfn4lJ"
+    "spotify_url": "https://open.spotify.com/embed/track/2s0DmFkinx9TZMFxAfn4lJ"
   }
 ]   

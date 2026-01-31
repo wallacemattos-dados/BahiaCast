@@ -1,9 +1,9 @@
 import streamlit as st
 
 def date_filter():
-    st.sidebar.header("🎚️ Filtros")
-    month = st.selectbox("Mês", range (1, 7))
-    year = st.selectbox("Ano", range (1998, 2000))
+    st.sidebar.header("Filtros")
+    month = st.sidebar.selectbox("Mês", range (1, 7))
+    year = st.sidebar.selectbox("Ano", range (1998, 2000))
 
     st.sidebar.markdown("---")
     st.sidebar.markdown("### Sobre")
